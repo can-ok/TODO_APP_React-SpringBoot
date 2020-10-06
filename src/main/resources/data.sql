@@ -1,0 +1,9 @@
+
+
+
+
+INSERT INTO TODO(ID,USERNAME,DESCRIPTION,TARGET_DATE,IS_DONE) values(10001,'canok','LEARN JPA',sysdate(),false);
+
+INSERT INTO TODO(ID,USERNAME,DESCRIPTION,TARGET_DATE,IS_DONE) values(10002,'canok','LEARN to Code',sysdate(),false);
+
+INSERT INTO TODO(ID,USERNAME,DESCRIPTION,TARGET_DATE,IS_DONE) values(10003,'canok','LEARN Microservices',sysdate(),false);
